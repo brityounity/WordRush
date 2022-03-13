@@ -1,0 +1,152 @@
+{
+ "level":[{
+   "id": 1,
+   "text": "act as if",
+   "complete": false
+ },
+ {
+   "id": 2,
+   "text": "do it now",
+   "complete": false
+ },
+ {
+   "id": 3,
+   "text": "go for it",
+   "complete": false
+ },
+ {
+   "id": 4,
+   "text": "let it go",
+   "complete": false
+ },
+ {
+   "id": 5,
+   "text": "be a giver",
+   "complete": false
+ },
+ {
+   "id": 6,
+   "text": "all is well",
+   "complete": false
+ },
+ {
+   "id": 7,
+   "text": "be here now",
+   "complete": false
+ },
+ {
+   "id": 8,
+   "text": "get over it",
+   "complete": false
+ },
+ {
+   "id": 9,
+   "text": "cash is king",
+   "complete": false
+ },
+ {
+   "id": 10,
+   "text": "dare to do",
+   "complete": false
+ },
+ {
+   "id": 11,
+   "text": "do your best",
+   "complete": false
+ },
+ {
+   "id": 12,
+   "text": "be the change",
+   "complete": false
+ },
+ {
+   "id": 13,
+   "text": "focus and win",
+   "complete": false
+ },
+ {
+   "id": 14,
+   "text": "never give up",
+   "complete": false
+ },
+ {
+   "id": 15,
+   "text": "seize the day",
+   "complete": false
+ },
+ {
+   "id": 16,
+   "text": "change is acceptable",
+   "complete": false
+ },
+ {
+   "id": 17,
+   "text": "commit or quit",
+   "complete": false
+ },
+ {
+   "id": 18,
+   "text": "i’m determined",
+   "complete": false
+ },
+ {
+   "id": 19,
+   "text": "it is possible",
+   "complete": false
+ },
+ {
+   "id": 20,
+   "text": "keep it simple",
+   "complete": false
+ },
+ {
+   "id": 21,
+   "text": "next big feat?",
+   "complete": false
+ },
+ {
+   "id": 22,
+   "text": "this will pass",
+   "complete": false
+ },
+ {
+   "id": 23,
+   "text": "change is good",
+   "complete": false
+ },
+ {
+   "id": 24,
+   "text": "believe you can",
+   "complete": false
+ },
+ {
+   "id": 25,
+   "text": "hope trumps all",
+   "complete": false
+ },
+ {
+   "id": 26,
+   "text": "just be awesome",
+   "complete": false
+ },
+ {
+   "id": 27,
+   "text": "life is awesome",
+   "complete": false
+ },
+ {
+   "id": 28,
+   "text": "life won’t wait",
+   "complete": false
+ },
+ {
+   "id": 29,
+   "text": "live life daily",
+   "complete": false
+ },
+ {
+   "id": 30,
+   "text": "never look back",
+   "complete": false
+ }]
+ }
